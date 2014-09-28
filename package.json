@@ -1,0 +1,25 @@
+{
+  "name": "bitbucket-client",
+  "version": "0.0.0",
+  "description": "This is an BitBucket API consumer, using OAuth authentication and BitBucket API 2.0",
+  "main": "index.js",
+  "keywords": [
+    "bitbucket",
+    "api",
+    "oauth",
+    "rest"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "mustache": "0.8.2",
+    "querystring": "0.2.0",
+    "request": "2.44.0"
+  },
+  "author": {
+    "name": "Anh-Tu Hoang",
+    "email": "hatu87@gmail.com"
+  },
+  "license": "MIT"
+}
