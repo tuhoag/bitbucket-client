@@ -1,6 +1,6 @@
 {
   "name": "bitbucket-client",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is an BitBucket API consumer, using OAuth authentication and BitBucket API 2.0",
   "main": "index.js",
   "keywords": [
@@ -17,9 +17,17 @@
     "querystring": "0.2.0",
     "request": "2.44.0"
   },
-  "author": {
-    "name": "Anh-Tu Hoang",
-    "email": "hatu87@gmail.com"
+  "author": "Anh-Tu Hoang <hatu87@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://hatu87@github.com/hatu87/bitbucket-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hatu87/bitbucket-client/issues"
+  },
+  "homepage": "https://github.com/hatu87/bitbucket-client"
 }
